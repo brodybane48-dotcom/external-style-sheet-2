@@ -1,2 +1,2 @@
-# external-style-sheet-2
+# external-style-sheet
 
